@@ -1,0 +1,64 @@
+﻿{
+  "gunItems": [
+    {
+      "id": 0,
+      "name": "Bazooka",
+      "gold": 0
+    },
+    {
+      "id": 1,
+      "name": "Grenade",
+      "gold": 1000
+    },
+    {
+      "id": 2,
+      "name": "Shotgun",
+      "gold": 2000
+    },
+    {
+      "id": 3,
+      "name": "DiggerBomb",
+      "gold": 4500
+    },
+    {
+      "id": 4,
+      "name": "Burst",
+      "gold": 9000
+    },
+    {
+      "id": 5,
+      "name": "Bounce bomb",
+      "gold": 12000
+    },
+    {
+      "id": 6,
+      "name": "Cluster",
+      "gold": 15500
+    },
+    {
+      "id": 7,
+      "name": "Sticky bomb",
+      "gold": 20000
+    },
+    {
+      "id": 8,
+      "name": "Bunker bomb",
+      "gold": 25500
+    },
+    {
+      "id": 9,
+      "name": "Napalm",
+      "gold": 32000
+    },
+    {
+      "id": 10,
+      "name": "Rubber bomb",
+      "gold": 40000
+    },
+    {
+      "id": 11,
+      "name": "Laser",
+      "gold": 50000
+    }
+  ]
+}
